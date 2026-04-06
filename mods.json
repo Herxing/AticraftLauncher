@@ -1,0 +1,327 @@
+[
+  {
+    "name": "SecurityCraft",
+    "version": "1.10.1",
+    "side": "both"
+  },
+  {
+    "name": "Alex's Mobs",
+    "version": "1.22.9",
+    "side": "both"
+  },
+  {
+    "name": "Aquaculture 2",
+    "version": "2.5.7",
+    "side": "both"
+  },
+  {
+    "name": "Architectury",
+    "version": "9.2.14",
+    "side": "both"
+  },
+  {
+    "name": "Ars Nouveau",
+    "version": "4.12.7",
+    "side": "both"
+  },
+  {
+    "name": "Artifacts",
+    "version": "9.5.16",
+    "side": "both"
+  },
+  {
+    "name": "BaguetteLib",
+    "version": "1.1.6",
+    "side": "both"
+  },
+  {
+    "name": "Balm",
+    "version": "7.3.38",
+    "side": "both"
+  },
+  {
+    "name": "Biomes O' Plenty",
+    "version": "19.0.0.96",
+    "side": "both"
+  },
+  {
+    "name": "BlockUI",
+    "version": "1.0.193",
+    "side": "both"
+  },
+  {
+    "name": "Botania",
+    "version": "451",
+    "side": "both"
+  },
+  {
+    "name": "Citadel",
+    "version": "2.6.3",
+    "side": "both"
+  },
+  {
+    "name": "Cloth Config",
+    "version": "11.1.136",
+    "side": "both"
+  },
+  {
+    "name": "Clumps",
+    "version": "12.0.0.4",
+    "side": "both"
+  },
+  {
+    "name": "CodeChickenLib",
+    "version": "4.4.0.516",
+    "side": "both"
+  },
+  {
+    "name": "Corpse Curios Compat",
+    "version": "3.1.3",
+    "side": "both"
+  },
+  {
+    "name": "Corpse",
+    "version": "1.0.23",
+    "side": "both"
+  },
+  {
+    "name": "Create",
+    "version": "6.0.8",
+    "side": "both"
+  },
+  {
+    "name": "CreativeCore",
+    "version": "2.12.35",
+    "side": "both"
+  },
+  {
+    "name": "Curios API",
+    "version": "5.14.1",
+    "side": "both"
+  },
+  {
+    "name": "Custom NPCs",
+    "version": "1.20.1",
+    "side": "both"
+  },
+  {
+    "name": "Domum Ornamentum",
+    "version": "1.0.296",
+    "side": "both"
+  },
+  {
+    "name": "Dungeons Arise",
+    "version": "2.1.58",
+    "side": "both"
+  },
+  {
+    "name": "Dungeons Arise: Seven Seas",
+    "version": "1.0.2",
+    "side": "both"
+  },
+  {
+    "name": "Dynmap",
+    "version": "3.7-beta-6",
+    "side": "server"
+  },
+  {
+    "name": "Ender Storage",
+    "version": "2.11.0.188",
+    "side": "both"
+  },
+  {
+    "name": "Epic Knights",
+    "version": "10.11",
+    "side": "both"
+  },
+  {
+    "name": "Farmer's Delight",
+    "version": "1.2.11",
+    "side": "both"
+  },
+  {
+    "name": "FerriteCore",
+    "version": "6.0.1",
+    "side": "both"
+  },
+  {
+    "name": "Framework",
+    "version": "0.8.0",
+    "side": "both"
+  },
+  {
+    "name": "FTB Chunks",
+    "version": "2001.3.6",
+    "side": "both"
+  },
+  {
+    "name": "FTB Library",
+    "version": "2001.2.12",
+    "side": "both"
+  },
+  {
+    "name": "FTB Quests",
+    "version": "2001.4.18",
+    "side": "both"
+  },
+  {
+    "name": "FTB Teams",
+    "version": "2001.3.2",
+    "side": "both"
+  },
+  {
+    "name": "GeckoLib",
+    "version": "4.8.3",
+    "side": "both"
+  },
+  {
+    "name": "GlitchCore",
+    "version": "0.0.1.1",
+    "side": "both"
+  },
+  {
+    "name": "Goblin Traders",
+    "version": "1.11.5",
+    "side": "both"
+  },
+  {
+    "name": "Ice & Fire",
+    "version": "2.1.13-beta-5",
+    "side": "both"
+  },
+  {
+    "name": "Iron Chests",
+    "version": "14.4.4",
+    "side": "both"
+  },
+  {
+    "name": "Iron Furnaces",
+    "version": "4.1.6",
+    "side": "both"
+  },
+  {
+    "name": "Jade",
+    "version": "11.13.2",
+    "side": "both"
+  },
+  {
+    "name": "Jade Addons",
+    "version": "5.5.0",
+    "side": "both"
+  },
+  {
+    "name": "JEI",
+    "version": "15.20.0.112",
+    "side": "client"
+  },
+  {
+    "name": "Lootr",
+    "version": "0.7.35.94",
+    "side": "both"
+  },
+  {
+    "name": "MineColonies",
+    "version": "1.1.1197",
+    "side": "both"
+  },
+  {
+    "name": "ModernFix",
+    "version": "5.26.2",
+    "side": "both"
+  },
+  {
+    "name": "Mowzie's Mobs",
+    "version": "1.8.2",
+    "side": "both"
+  },
+  {
+    "name": "Multi-Piston",
+    "version": "1.2.43",
+    "side": "both"
+  },
+  {
+    "name": "OctoLib",
+    "version": "0.5.0.1",
+    "side": "both"
+  },
+  {
+    "name": "Patchouli",
+    "version": "85",
+    "side": "both"
+  },
+  {
+    "name": "Pipez",
+    "version": "1.2.26",
+    "side": "both"
+  },
+  {
+    "name": "RarCompat",
+    "version": "0.5",
+    "side": "both"
+  },
+  {
+    "name": "Relics",
+    "version": "0.8.0.13",
+    "side": "both"
+  },
+  {
+    "name": "Sophisticated Backpacks",
+    "version": "3.24.29.1603",
+    "side": "both"
+  },
+  {
+    "name": "Sophisticated Core",
+    "version": "1.3.10.1552",
+    "side": "both"
+  },
+  {
+    "name": "Spark",
+    "version": "1.10.53",
+    "side": "server"
+  },
+  {
+    "name": "Spartan Shields",
+    "version": "3.1.1",
+    "side": "both"
+  },
+  {
+    "name": "Spartan Weaponry",
+    "version": "3.2.1",
+    "side": "both"
+  },
+  {
+    "name": "Storage Drawers",
+    "version": "12.14.3",
+    "side": "both"
+  },
+  {
+    "name": "Structurize",
+    "version": "1.0.804",
+    "side": "both"
+  },
+  {
+    "name": "TerraBlender",
+    "version": "3.0.1.10",
+    "side": "both"
+  },
+  {
+    "name": "Terralith",
+    "version": "2.5.4",
+    "side": "both"
+  },
+  {
+    "name": "TownTalk",
+    "version": "1.1.0",
+    "side": "both"
+  },
+  {
+    "name": "Tree Chop",
+    "version": "0.19.0",
+    "side": "both"
+  },
+  {
+    "name": "Waystones",
+    "version": "14.1.20",
+    "side": "both"
+  }
+]
