@@ -1,14 +1,8 @@
 [
   {
-    "id": "1775426099093",
-    "date": "5 Avril 2026",
-    "title": "TEST 2",
-    "body": "TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST"
-  },
-  {
-    "id": "1775425549287",
-    "date": "5 Avril 2026",
-    "title": "Actualitée fonctionnel",
-    "body": "La rubrique de actualités est fonctionnel , a 100% test ta mere la pute"
+    "id": "1775462072197",
+    "date": "6 Avril 2026",
+    "title": "🎮 ATICraft Launcher — Mise à jour v1.0.8",
+    "body": "Actualités dynamiques\nLes actualités du launcher se mettent à jour automatiquement sans avoir à réinstaller. Elles sont rafraîchies toutes les 5 minutes.\n\nListe des mods\nLa liste des 65 mods installés est maintenant à jour et consultable depuis le launcher (onglet Mods).\n\nCarte Dynmap\nLa carte du monde est accessible directement depuis le launcher. Elle s'affiche uniquement quand le serveur est en ligne.\n\nMise à jour automatique\nLe launcher se met désormais à jour tout seul en arrière-plan. Un bandeau apparaît quand une nouvelle version est disponible — plus besoin de réinstaller manuellement.\n\nPage À propos\nUne nouvelle page est disponible dans le menu avec les infos du launcher, le lien Discord et les crédits.\n\nCorrections\n\nLe bouton de connexion Microsoft est maintenant cliquable\nLa liste des mods est scrollable\nLa session Microsoft se rafraîchit automatiquement au démarrage\nDiverses corrections de bugs"
   }
 ]
